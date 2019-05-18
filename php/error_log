@@ -1,0 +1,22 @@
+[13-Aug-2017 19:19:23 America/Chicago] PHP Fatal error:  Cannot pass parameter 2 by reference in /home1/amexenor/public_html/iec/2017/php/aceptar_comprobante.php on line 16
+[13-Aug-2017 19:20:20 America/Chicago] PHP Fatal error:  Cannot pass parameter 2 by reference in /home1/amexenor/public_html/iec/2017/php/aceptar_comprobante.php on line 16
+[14-Aug-2017 18:07:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$mensaje_correo' (T_VARIABLE) in /home1/amexenor/public_html/iec/2017/php/aceptar_comprobante.php on line 51
+[14-Aug-2017 18:08:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/aceptar_comprobante.php on line 22
+[14-Aug-2017 18:17:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/aceptar_comprobante.php on line 22
+[14-Aug-2017 18:17:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/aceptar_comprobante.php on line 22
+[14-Aug-2017 18:18:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/aceptar_comprobante.php on line 22
+[02-Sep-2017 13:52:10 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home1/amexenor/public_html/iec/2017/php/guardar_factura.php on line 20
+[02-Sep-2017 13:56:14 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home1/amexenor/public_html/iec/2017/php/guardar_factura.php on line 20
+[03-Sep-2017 18:54:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 16
+[03-Sep-2017 18:54:45 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 24
+[03-Sep-2017 18:55:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 16
+[03-Sep-2017 18:55:43 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 24
+[03-Sep-2017 18:56:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 16
+[03-Sep-2017 18:56:43 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 24
+[03-Sep-2017 18:59:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 16
+[03-Sep-2017 18:59:20 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 24
+[03-Sep-2017 19:00:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 16
+[03-Sep-2017 19:43:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 15
+[03-Sep-2017 19:44:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 15
+[03-Sep-2017 19:45:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 15
+[03-Sep-2017 19:45:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/amexenor/public_html/iec/2017/php/consultaGafetes.php on line 15

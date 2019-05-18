@@ -1,0 +1,19 @@
+.aceptadoAdmin{
+  background-color: green;
+  color: #fff;
+  text-align: center;
+}
+@keyframes mostrar{
+  0%{opacity: 0;}
+  100% {opacity: 1;}
+}
+@keyframes ocultar{
+  0%{opacity: 1;}
+  100% {opacity: 0;}
+}
+.mostrar{
+  animation: mostrar .5s ease-in 1 forwards;
+}
+.ocultar{
+  animation: ocultar .5s ease-in 1 forwards;
+}

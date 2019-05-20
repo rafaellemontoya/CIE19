@@ -37,10 +37,10 @@ include_once 'templates/header.php';
               <div class="team-member"><img src="images/ponentes/ponente2.jpg" width="384" height="500" alt="" class="img-responsive reveal-inline-block">
                 <div class="team-member-body">
                   <div>
-                    <h4 class="text-bold team-member-title"><a href="#">Dra. Cecilia Martín del Campo
+                    <h4 class="text-bold team-member-title"><a href="martin">Dra. Cecilia Martín del Campo
 </a></h4>
                   </div>
-                  <p class="offset-top-0">México</p><a href="#" class="btn btn-primary"><?echo $lang_ponencias['confirmado']?></a>
+                  <p class="offset-top-0">México</p><a href="martin" class="btn btn-primary"><?echo $lang_ponencias['confirmado']?></a>
                 </div>
               </div>
             </div>
@@ -48,23 +48,23 @@ include_once 'templates/header.php';
               <div class="team-member"><img src="images/ponentes/ponente3.jpg" width="384" height="500" alt="" class="img-responsive reveal-inline-block">
                 <div class="team-member-body">
                   <div>
-                    <h4 class="text-bold team-member-title"><a href="#">Dr. Manuel Collares Pereira
+                    <h4 class="text-bold team-member-title"><a href="collares">Dr. Manuel Collares Pereira
 </a></h4>
                   </div>
                   <p class="offset-top-0">
                     Portugal
 
-</p><a href="#" class="btn btn-primary"><?echo $lang_ponencias['confirmado']?></a>
+</p><a href="collares" class="btn btn-primary"><?echo $lang_ponencias['confirmado']?></a>
                 </div>
               </div>
             </div>
 
 
             <div class="col-sm-4 col-lg-1-5 offset-top-50 offset-lg-top-0">
-              <div class="team-member"><img src="images/ponentes/ponente4.jpg" width="384" height="500" alt="" class="img-responsive reveal-inline-block">
+              <div class="team-member"><img src="images/ponentes/lasa1.jpg" width="384" height="500" alt="" class="img-responsive reveal-inline-block">
                 <div class="team-member-body">
                   <div>
-                    <h4 class="text-bold team-member-title"><a href="#">Dra. Blanca Jiménez
+                    <h4 class="text-bold team-member-title"><a href="#">Dr. Hugo de Lasa
 </a></h4>
                   </div>
                   <p class="offset-top-0">México</p><a href="#" class="btn btn-primary"><?echo $lang_ponencias['por_confirmar']?></a>
@@ -75,11 +75,11 @@ include_once 'templates/header.php';
               <div class="team-member"><img src="images/ponentes/ponente5.jpg" width="384" height="500" alt="" class="img-responsive reveal-inline-block">
                 <div class="team-member-body">
                   <div>
-                    <h4 class="text-bold team-member-title"><a href="#">Dr. Luis Ricardez Sandoval
+                    <h4 class="text-bold team-member-title"><a href="ricardez">Dr. Luis Ricardez Sandoval
 
  </a></h4>
                   </div>
-                  <p class="offset-top-0">Canadá</p><a href="#" class="btn btn-primary"><?echo $lang_ponencias['confirmado']?></a>
+                  <p class="offset-top-0">Canadá</p><a href="ricardez" class="btn btn-primary"><?echo $lang_ponencias['confirmado']?></a>
                 </div>
               </div>
             </div>
